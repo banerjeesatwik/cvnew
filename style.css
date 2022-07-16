@@ -10,24 +10,24 @@ body
 {
     margin: 0px;
     background-color: black;
-    padding: 20px;
+    padding: 1.25rem;
     /* border-left: solid 10px;
     border-right: solid 10px;
     border-bottom: solid 10px; */
-    border-color: #F05454;
-    height: 820px; 
+    border-color: black;
+    height: 51.25rem; 
 }
 
 .middiv
 {
     
-    height: 2690px;
-    background-color: #49FF00;
+    height: 168.125rem;
+    background-color: white;
    
 }
 .bottomdiv
 {
-    height: 105px;
+    height: 6.5625rem;
     background-color: #FCF8E8;
     
 }
@@ -40,23 +40,23 @@ body
 }
 #building{
     position: absolute;
-    right: 10px;
+    right: 0.625rem;
     /* top: 485px; */
-    left: 10px;
-    height: 800px;
-    width: 1243px;
-    size: 1080px 159px;
-    object-fit: cover;
+    left: 0.625rem;
+    height: 50rem;
+    width: 77.6875rem;
+    /* size: 1080px 159px;
+    object-fit: cover; */
 }
 .mainheading{
-    padding: 50px 0 0 0;
+    padding: 3.125rem 0 0 0;
     margin: 110 auto 0 auto;
     width: 60%;
     color: #Fcf8e8;
     font-family: 'Sacramento', cursive;
     text-align: center;
     position: relative;
-    font-size: 100px;
+    font-size: 6.25rem;
     line-height: 1;
     font-weight: 1800;
     text-shadow: 9px 9px 9px #303e3a;
@@ -72,7 +72,7 @@ body
     font-family: 'Cookie', cursive;
     text-align: center;
     position: relative;
-    font-size: 45px;
+    font-size: 2.8125rem;
     line-height: 1;
     font-weight: 400;
     text-shadow: 9px 9px 9px #303e3a;
@@ -106,27 +106,27 @@ h2{
 .selena-img
 {
     width: 30%;
-    margin-left:20px;
+    margin-left: 1.25rem;
     float: right;
 }
 .selena-img2
 {
     width: 30%;
-    margin-right:20px;
+    margin-right: 1.25rem;
     float: left;
-    height: 100px;
+    height: 6.25rem;
 }
 .ju-img
 {
     width: 30%;
-    margin-right:20px;
+    margin-right: 1.25rem;
     float: left;
 }
 
 .coding-img
 {
     width: 48%;
-    margin-left:20px;
+    margin-left: 1.25rem;
     float: right;
 }
 
@@ -154,8 +154,8 @@ h2{
     color: black;
     text-decoration: none;
     position: relative;
-    left: 485px;
-    padding: 30px;
+    left: 30.3125rem;
+    padding: 1.875rem;
 }
 .footer-link:hover{
     color: #11999E;
@@ -172,29 +172,29 @@ h2{
 }
 
 .navimg{
-    height:27.5px;
-    width:27.5px;
+    height: 1.71875rem;
+    width:1.71875rem;
 }
 .myface
 {
     text-align: center;
-    height: 180px;
+    height: 11.25rem;
     border-radius: 30%;
     margin: 0 auto 0 auto;
     position: relative;
     left: 34.735rem;
-    top: 45px;
+    top: 2.8125rem;
 }
 
 
 #profileh2
 {
     position: relative;
-    top: 55px;
+    top: 3.4375rem;
 }
 #profilep{
     position: relative;
-    top: 58px;
+    top: 3.625rem;
     margin: 10 auto 0 auto;
     /* width: 30%; */
     color: #E0DECA;
@@ -241,9 +241,9 @@ h2{
     background: #eb2c2c;
     border: solid #decdd1 2px;
     text-decoration: none;
-    margin-top: 70px;
+    margin-top: 4.375rem;
     position: relative;
-    left: 557px;
+    left: 34.8125rem;
   }
   
   .btn:hover {
@@ -259,58 +259,58 @@ h2{
   
   .flimg
   {
-    height: 30px;
-    width: 30px;
+    height: 1.875rem;
+    width: 1.875rem;
    
   }
 
  .flc
  {
     position:relative;
-    padding-top: 25px;
-    padding-left: 560px;
+    padding-top: 1.5625rem;
+    padding-left: 35rem;
  } 
  hr{
-    border: dotted  50px;
+    border: dotted  3.125rem;
     border-style: dotted;
-    border-top: 50px;
+    border-top: 3.125rem;
     border-bottom: none;
     width: 00%;
-    margin: 100px auto;
+    margin: 6.25rem auto;
 }
 
 .profile
 {
-    height: 350px;
+    height: 21.875rem;
     background-color: #11999E;
 }
 .education
 {
     background-color: #66BFBF;
     position: relative;
-    top: -35px;
-    height: 550px;
+    top: -2.1875rem;
+    height: 34.375rem;
 }
 .skills
 {
     position: relative;
-    top: -155px;
-    height: 350px;
+    top: -9.6875rem;
+    height: 21.875rem;
     background-color: #EAF6F6; 
     
 }
 .interest
 {
     position: relative;
-    top: -190px;
+    top: -11.875rem;
     background-color: brown;
-    height: 1050px;
+    height: 65.625rem;
 }
 .contact-me
 {
     position: relative;
-    top: -225px;
-    height: 400px;
+    top: -14.0625rem;
+    height: 25rem;
     background-color: #FEB139;
 }
 
